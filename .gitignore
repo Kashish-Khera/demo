@@ -1,0 +1,9 @@
+error.log
+error.txt
+
+*.log
+/yo/
+myxlfile.xlsx
+hello
+
+
